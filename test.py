@@ -8,8 +8,8 @@ After a successful run, please submit a pull request!
 def read_input():
     # Please allow the user to enter their first and last name from the terminal
     # Hint: We call this a raw input
-    first_name = 'Maggie'
-    last_name = 'Wang'
+    first_name = input('First Name: ')
+    last_name = input('Last Name: ')
 
     # Please fix the following print statement
     print('Welcome %s %s'%(first_name,last_name))
