@@ -13,6 +13,7 @@ def read_input():
 
     # Please fix the following print statement
     'Welcome %s %s'%(first_name,last_name)
+	print('Test Line')
 
     #Supply the approriate return (We aren't actually returning anything :) )
     return
