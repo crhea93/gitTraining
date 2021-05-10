@@ -15,6 +15,6 @@ def read_input():
     print('Welcome %s %s'%(first_name,last_name))
 
     #Supply the approriate return (We aren't actually returning anything :) )
-    return
+    return 0
 
 read_input()    
