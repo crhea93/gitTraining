@@ -3,6 +3,7 @@ Test python script for Git Training Purposes
 This program is written to ask the user their name and print it in the terminal.
 Before running this program, please fix the three minor issues :)
 After a successful run, please submit a pull request!
+EDITED BY JEAN-FRANCOIS CARON
 '''
 
 def read_input():
