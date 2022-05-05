@@ -5,16 +5,18 @@ Before running this program, please fix the three minor issues :)
 After a successful run, please submit a pull request!
 '''
 
-def read_input():
+def read_input(first,last):
     # Please allow the user to enter their first and last name from the terminal
     # Hint: We call this a raw input
-    first_name = ;
-    last_name = ;
+    first_name = first;
+    last_name = last;
 
     # Please fix the following print statement
-    'Welcome %s %s'%(first_name,last_name)
+    print('Welcome %s %s'%(first_name,last_name))
 
     #Supply the approriate return (We aren't actually returning anything :) )
-    return
 
-read_input()    
+first = input('Enter your first name: ')
+last = input('Enter your last name: ')
+      
+read_input(first,last)
