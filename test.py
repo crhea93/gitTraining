@@ -8,8 +8,8 @@ print('ichangendfit')
 def read_input():
     # Please allow the user to enter their first and last name from the terminal
     # Hint: We call this a raw input
-    first_name = ;
-    last_name = ;
+    first_name = "Isabelle" ;
+    last_name = "Ngo" ;
 
     # Please fix the following print statement
     'Welcome %s %s'%(first_name,last_name)
