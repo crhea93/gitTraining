@@ -12,7 +12,7 @@ def read_input():
     last_name = input();
 
     # Please fix the following print statement
-    'Welcome %s %s'%(first_name,last_name)
+    print('Welcome %s %s'%(first_name,last_name))
 
     #Supply the appropriate return (We aren't actually returning anything :) )
     return
